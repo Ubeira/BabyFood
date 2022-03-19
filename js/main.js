@@ -8,9 +8,9 @@ import state, {
 import { formatDate } from './helpers.js';
 
 const todoForm = document.querySelector('form.baby-form');
-const todoList = document.querySelector('ul.todo-list');
-const todoClean = document.querySelector('button.todo-clean');
-const todoEmpty = document.querySelector('button.todo-empty');
+const todoList = document.querySelector('ul.baby-list');
+const todoClean = document.querySelector('button.baby-clean');
+const todoEmpty = document.querySelector('button.baby-empty');
 const rightBoob = document.querySelector('button.right');
 const leftBoob = document.querySelector('button.left');
 
